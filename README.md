@@ -77,3 +77,14 @@ salesperson/
 │── sample-data.xlsx
 │── screenshots/
 │── README.md
+---
+
+## 👩‍💻 Author
+
+### Harshitha Mekala
+
+Recent Computer Science Graduate passionate about Python, SQL, Power BI, Machine Learning, and Data Analytics.
+
+🔗 GitHub: https://github.com/Harshitha152  
+🔗 LinkedIn: https://www.linkedin.com/in/harshitha-mekala15
+
