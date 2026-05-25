@@ -1,54 +1,79 @@
-# salesperson
-# Salesperson Performance Dashboard  
+<h1 align="center">📊 Sales Performance Analysis Dashboard</h1>
 
-**Overview**  
-This project provides an interactive dashboard built with Power BI to analyze and visualize salesperson performance. It is designed to help managers and business stakeholders track key sales metrics, identify top performers, and make data-driven decisions using clear and interactive visualizations.  
+<p align="center">
+Power BI | SQL | Data Analytics | Visualization
+</p>
 
----
-
-**Features**  
-- Interactive Power BI report for salesperson performance.  
-- Data visualization of sales trends, revenue contribution, and targets.  
-- Drill-down capability to explore performance by region, product, or salesperson.  
-- Sample dataset provided for demonstration.  
-
----
-
-**Project Structure**  
-- `salesperson.pbix` : Power BI report file.  
-- `sample-data.xlsx` : Sample dataset used in the dashboard.  
-- `README.md` : Project documentation.  
+<p align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Analytics-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Visualization-blue?style=for-the-badge"/>
+</p>
 
 ---
 
-**Getting Started**  
-1. Download or clone the repository.  
-2. Open the `salesperson.pbix` file using Power BI Desktop.  
-3. Explore the dashboard and interact with different visualizations.  
-4. If required, replace `sample-data.xlsx` with your own dataset and refresh the report in Power BI.  
+## 📌 Overview
+
+This project presents an interactive Power BI dashboard designed to analyze and visualize salesperson performance. The dashboard helps track key sales metrics, monitor KPIs, identify top performers, and generate business insights through interactive visualizations and reporting.
+
+The project demonstrates practical skills in data analysis, business intelligence, dashboard creation, and data visualization using Power BI.
 
 ---
 
-**Requirements**  
-- Power BI Desktop (latest version recommended).  
-- Excel or CSV file for custom datasets.  
+## 🚀 Features
+
+✅ Interactive Power BI Dashboard  
+✅ Sales Performance Analysis  
+✅ KPI Tracking & Reporting  
+✅ Customer & Revenue Insights  
+✅ Region-wise and Product-wise Analysis  
+✅ Data-Driven Decision Support  
+✅ Drill-down Visualizations  
 
 ---
 
-**Usage**  
-- Track salesperson performance against targets.  
-- Analyze sales by time, region, and product category.  
-- Identify top-performing salespeople and areas needing improvement.  
-- Use the sample dataset to understand report functionality or connect your own sales data.  
+## 🛠️ Tech Stack
+
+- Power BI
+- SQL
+- Data Analysis
+- Data Visualization
 
 ---
 
-**Future Enhancements**  
-- Add predictive analytics for sales forecasting.  
-- Include advanced KPIs such as customer acquisition cost and retention rate.  
-- Integration with live databases or APIs for real-time data refresh.  
+## 📂 Project Structure
+
+```bash
+salesperson/
+│── salesperson.pbix
+│── sample-data.xlsx
+│── screenshots/
+│── README.md
+✅ Interactive Power BI Dashboard  
+✅ Sales Performance Analysis  
+✅ KPI Tracking & Reporting  
+✅ Customer & Revenue Insights  
+✅ Region-wise and Product-wise Analysis  
+✅ Data-Driven Decision Support  
+✅ Drill-down Visualizations  
 
 ---
 
-**License**  
-This project is available for educational and professional use under the MIT License.  
+## 🛠️ Tech Stack
+
+- Power BI
+- SQL
+- Data Analysis
+- Data Visualization
+
+---
+
+## 📂 Project Structure
+
+```bash
+salesperson/
+│── salesperson.pbix
+│── sample-data.xlsx
+│── screenshots/
+│── README.md
