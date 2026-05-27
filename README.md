@@ -1,90 +1,144 @@
 <h1 align="center">📊 Sales Performance Analysis Dashboard</h1>
 
 <p align="center">
-Power BI | SQL | Data Analytics | Visualization
+Power BI | Data Analytics | KPI Analysis | Business Insights
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data_Analytics-102230?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Visualization-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI_Analysis-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Insights-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
 ## 📌 Overview
 
-This project presents an interactive Power BI dashboard designed to analyze and visualize salesperson performance. The dashboard helps track key sales metrics, monitor KPIs, identify top performers, and generate business insights through interactive visualizations and reporting.
+This project is a sales performance analysis dashboard developed for analyzing sales trends, business KPIs, and salesperson performance.
 
-The project demonstrates practical skills in data analysis, business intelligence, dashboard creation, and data visualization using Power BI.
+The implementation uses:
+
+* Power BI for dashboard development
+* SQL for data analysis
+* Data visualization techniques for business insights
+
+The dashboard analyzes:
+
+* Sales performance
+* Revenue trends
+* Salesperson contribution
+* KPI metrics
+
+to support business reporting and performance analysis.
 
 ---
 
 ## 🚀 Features
 
-✅ Interactive Power BI Dashboard  
-✅ Sales Performance Analysis  
-✅ KPI Tracking & Reporting  
-✅ Customer & Revenue Insights  
-✅ Region-wise and Product-wise Analysis  
-✅ Data-Driven Decision Support  
-✅ Drill-down Visualizations  
+✅ Interactive Sales Dashboard
+✅ KPI Performance Analysis
+✅ Revenue Trend Analysis
+✅ Salesperson Performance Tracking
+✅ Business Data Visualization
+✅ SQL-Based Data Analysis
+✅ Filter & Slicer Support
+✅ Business Insight Reporting
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Power BI
-- SQL
-- Data Analysis
-- Data Visualization
+### Data Analytics & Visualization
+
+* Power BI
+* SQL
+
+### Data Processing
+
+* Excel
+* Data Cleaning
+* Data Visualization
 
 ---
 
 ## 📂 Project Structure
 
-```bash
+```bash id="m7kq2s"
 salesperson/
-│── salesperson.pbix
-│── sample-data.xlsx
-│── screenshots/
+│── dashboard.pbix
+│── dataset.xlsx
+│── visuals/
 │── README.md
-✅ Interactive Power BI Dashboard  
-✅ Sales Performance Analysis  
-✅ KPI Tracking & Reporting  
-✅ Customer & Revenue Insights  
-✅ Region-wise and Product-wise Analysis  
-✅ Data-Driven Decision Support  
-✅ Drill-down Visualizations  
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 📁 Dashboard Analysis
 
-- Power BI
-- SQL
-- Data Analysis
-- Data Visualization
+The dashboard focuses on analyzing:
+
+| Analysis Area        | Description                      |
+| -------------------- | -------------------------------- |
+| Sales Performance    | Overall sales tracking           |
+| Revenue Trends       | Revenue growth analysis          |
+| KPI Metrics          | Business performance indicators  |
+| Salesperson Analysis | Individual contribution analysis |
+| Data Visualization   | Interactive charts and reports   |
 
 ---
 
-## 📂 Project Structure
+## ⚙️ Dashboard Workflow
 
-```bash
-salesperson/
-│── salesperson.pbix
-│── sample-data.xlsx
-│── screenshots/
-│── README.md
+Data Collection
+↓
+Data Cleaning
+↓
+Data Analysis
+↓
+KPI Calculation
+↓
+Dashboard Visualization
+↓
+Business Insights
+
+---
+
+## 📊 Dashboard Features
+
+### KPI Analysis
+
+* Revenue tracking
+* Sales trend monitoring
+* Performance indicators
+
+### Visualizations
+
+* Charts
+* Graphs
+* Interactive filters
+* Business reports
+
+---
+
+## 📘 Future Improvements
+
+* Add advanced KPI analysis
+* Improve dashboard interactivity
+* Integrate real-time datasets
+* Add forecasting analysis
+
 ---
 
 ## 👩‍💻 Author
 
 ### Harshitha Mekala
 
-Recent Computer Science Graduate passionate about Python, SQL, Power BI, Machine Learning, and Data Analytics.
+Computer Science Engineering Graduate specializing in Data Science with interests in Data Analytics, Power BI, and Machine Learning.
 
-🔗 GitHub: https://github.com/Harshitha152  
+📧 [harshithamekala15@gmail.com](mailto:harshithamekala15@gmail.com)
+
+🔗 GitHub: https://github.com/Harshitha152
 🔗 LinkedIn: https://www.linkedin.com/in/harshitha-mekala15
-
